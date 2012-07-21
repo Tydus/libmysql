@@ -1,4 +1,0 @@
-libmysql
-========
-
-An libmysql snapshot
